@@ -1,4 +1,4 @@
-# Google Script API
+# Naqqas API
 
 A Node.js API that integrates with Google Sheets and Google Drive to manage medication data and orders.
 
